@@ -5,3 +5,10 @@ D:\Hoan\Github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyRefe
 D:\Hoan\Github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Hoan\Github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Hoan\Github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\BeeSystem\Desktop\github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
